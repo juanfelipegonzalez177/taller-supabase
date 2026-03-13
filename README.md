@@ -1,4 +1,4 @@
-# 📋 TaskApp — Gestión de Tareas en Tiempo Real
+#  TaskApp — Gestión de Tareas en Tiempo Real
 
 Aplicación web de gestión de tareas construida con **React**, **TypeScript** y **Supabase**, con funcionalidades de tiempo real, dashboard de estadísticas y chat en vivo.
 
